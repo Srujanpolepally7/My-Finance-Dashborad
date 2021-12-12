@@ -1,2 +1,4 @@
 # My-Finance-Dashborad
-The most important indicators of the financial health and position of a company are the metrics that are tracked in financial statements such as Profit and Loss Statement, Balance Sheet, and Cash Flow Statement, among others
+The Personal Financial Dashboard is that lets you organize all your accounts in one
+place, so you can see your complete financial picture and make smart money decisions. You can use
+it to set goals, create budgets, track spending, review investments, and more. 
